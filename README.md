@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# get-up
-=======
+
 # get_up
 
 A new Flutter project.
